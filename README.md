@@ -12,7 +12,7 @@ $ pip install quickpackage
 
 ##Usage
 
-Simply run `quickpackage` and enter the path of your python script.
+Simply run `quickpackage` from your terminal and enter the path of your python script.
 
 Example:
 ``` zsh
